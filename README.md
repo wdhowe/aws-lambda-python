@@ -1,6 +1,6 @@
-# aws-lambda
+# aws-lambda-python
 
-Amazon Web Services Lambda function examples.
+Amazon Web Services Lambda Python function examples.
 
 ----
 
